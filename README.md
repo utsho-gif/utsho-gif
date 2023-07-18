@@ -15,7 +15,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 🔭 I’m working as a Software Engineer and contributing to mostly frontend for building web applications.
 - 🌱 Exploring new technologies every day.
 - ⚡ In my free time I solve problems on Leetcode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iftakhar-utsho/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-utsho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iftakhar-utsho/)
 
 ---
 
